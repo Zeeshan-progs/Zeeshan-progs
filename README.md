@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on ...Learning  
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Tech 
-- 📫 How to reach me: ... https://twitter.com/zeeshan_iqbal_
+- 📫 How to reach me: ... https://twitter.com/zeeshan_iqbal_   
 - 😄 Pronouns: ...  How do you Love   
 - ⚡ Fun fact: ... Noting more funny 

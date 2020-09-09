@@ -11,7 +11,7 @@
 - 💬 Ask me about ... Tech 
 - 📫 How to reach me: ... [**### Instagram**](https://www.instagram.com/codewithnix/)
 
-
+[.   **### Twitter**.     ](https://twitter.com/zeeshan_iqbal_)
 
 
 

@@ -10,14 +10,14 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Tech 
 - 📫 How to reach me: ... 
+- How to reach me 
+ 
 [.   **Instagram**.  ](https://www.instagram.com/codewithnix/)
 
 [.   **Twitter**.    ](https://twitter.com/zeeshan_iqbal_)
 
 [    **YouTube**     ](https://www.youtube.com/channel/UCiBY18oLz7AyzZIzL3QrxwQ)
 
-- 😄 Pronouns: ...  How do you Love To Code  
-- ⚡ Fun fact: ... Noting more funny 
 
-
+![Hua's github stats](https://github-readme-stats.vercel.app/api?username=zeeshan-progs&show_icons=true&theme=radical)
 

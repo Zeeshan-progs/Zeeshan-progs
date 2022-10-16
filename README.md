@@ -1,7 +1,7 @@
 ### Hello World of Git 👋
 
 
-**Zeeshan-progs/Zeeshan-progs** is a ✨ _special_ ✨ repository 
+**Md Zeeshan Iqbal** 
 
 
 - 🔭 I’m currently working on ... My Self

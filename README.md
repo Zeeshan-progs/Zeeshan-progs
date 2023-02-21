@@ -25,7 +25,7 @@
   </a>
  
 <!-- Youtube badge   -->
-  <a href="[https://www.youtube.com/channel/UC4YI8YjlbPwNfQgsPysG-IA](https://www.youtube.com/channel/UCiBY18oLz7AyzZIzL3QrxwQ)">
+  <a href="https://www.youtube.com/channel/UCiBY18oLz7AyzZIzL3QrxwQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
  
